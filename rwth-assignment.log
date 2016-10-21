@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  21 OCT 2016 12:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  21 OCT 2016 17:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -569,8 +569,7 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
 )
 \c@partCounter=\count131
 \c@homeworkProblemCounter=\count132
-
-No file rwth-assignment.aux.
+ (./rwth-assignment.aux)
 \openout1 = `rwth-assignment.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 158.
@@ -585,6 +584,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 158.
 LaTeX Font Info:    ... okay on input line 158.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 158.
 LaTeX Font Info:    ... okay on input line 158.
+
 ABD: EveryShipout initializing macros
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -700,10 +700,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--283
  []
 
 
-LaTeX Warning: Reference `fig:multiple5' on page 3 undefined on input line 304.
-
-
-
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 308.
 
@@ -740,17 +736,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 507--513
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 14325 strings out of 493089
- 287120 string characters out of 6134842
- 340942 words of memory out of 5000000
+ 14327 strings out of 493089
+ 287160 string characters out of 6134842
+ 340950 words of memory out of 5000000
  17490 multiletter control sequences out of 15000+600000
  14014 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -773,7 +763,7 @@ e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on rwth-assignment.pdf (7 pages, 254309 bytes).
+Output written on rwth-assignment.pdf (7 pages, 254064 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
