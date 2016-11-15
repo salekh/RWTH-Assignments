@@ -29,8 +29,11 @@ Here are just a few features of this homework template.
 
 ### The Cover Page:
 
-![Cover page](/images/latex1.png)
-This is how the cover page looks for my first assignment in the course **Implementation of Databases**
+![Cover page](/images/page1.png)
+![Page 2](/images/page2.png)
+![Page 3](/images/page3.png)
+![Page 4](/images/page4.png)
+Here are a few sample pages from an assignment on the course **Implementation of Databases**.
 
 ## Credits
 
