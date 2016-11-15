@@ -1,7 +1,7 @@
 RWTH-Assignment-Template
 =======================
 
-This is the LaTeX templare that I use for submitting assignments at my university.
+This is the LaTeX template that I use for submitting assignments at my university.
 
 ## Features
 
